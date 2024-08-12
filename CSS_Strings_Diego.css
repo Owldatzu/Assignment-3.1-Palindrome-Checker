@@ -1,0 +1,41 @@
+
+
+body
+{
+    background-image:radial-gradient(rgb(221, 242, 245), rgb(209, 242, 247));
+    background-repeat: repeat;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button
+{
+    color: aquamarine;
+    background-color: brown;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p
+{
+    color: rgb(132, 0, 255);
+    text-decoration-line: overline;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+form
+{
+    color: indianred;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1
+{
+    font-size:45px;
+    color: rgb(12, 6, 1);
+    text-decoration-line:underline;
+    text-decoration-color: rgb(255, 251, 0);
+    text-decoration-style: double;
+    background-color: rgba(255, 255, 255, 0.315);  
+}
